@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorLib", "PrimeFactorLib\PrimeFactorLib.csproj", "{17962CF0-E023-4599-9725-7316DD57567A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsCon", "PrimeFactorsCon\PrimeFactorsCon.csproj", "{96A1B968-0AE4-4D3E-9C8D-83735127D1F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorLibTest", "PrimeFactorLibTest\PrimeFactorLibTest.csproj", "{541662DE-FFE0-4F02-9547-CD7125178DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17962CF0-E023-4599-9725-7316DD57567A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17962CF0-E023-4599-9725-7316DD57567A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17962CF0-E023-4599-9725-7316DD57567A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17962CF0-E023-4599-9725-7316DD57567A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A1B968-0AE4-4D3E-9C8D-83735127D1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A1B968-0AE4-4D3E-9C8D-83735127D1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A1B968-0AE4-4D3E-9C8D-83735127D1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A1B968-0AE4-4D3E-9C8D-83735127D1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541662DE-FFE0-4F02-9547-CD7125178DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541662DE-FFE0-4F02-9547-CD7125178DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541662DE-FFE0-4F02-9547-CD7125178DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541662DE-FFE0-4F02-9547-CD7125178DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

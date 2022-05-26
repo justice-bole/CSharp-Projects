@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingFunctions", "WritingFunctions\WritingFunctions.csproj", "{3DF422AB-971A-4858-9089-F57633AE55C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging", "Debugging\Debugging.csproj", "{2ECE83CB-E54F-42CB-97FC-0DBA528B1E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{1C7F0B09-BCCE-460F-8835-7B5306E7A056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{5E9C5660-851A-4137-8A76-0E25C990FDB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibUnitTests", "CalculatorLibUnitTests\CalculatorLibUnitTests.csproj", "{43FB6C15-7CD2-4858-9FA2-BA80BA5D23DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandlingLib", "CallStackExceptionHandlingLib\CallStackExceptionHandlingLib.csproj", "{331730FE-CC1B-4A4A-98C9-69FBB4599605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandling", "CallStackExceptionHandling\CallStackExceptionHandling.csproj", "{A00FE88E-C57C-4ECE-98D6-5C0A7C1BCDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF422AB-971A-4858-9089-F57633AE55C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF422AB-971A-4858-9089-F57633AE55C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF422AB-971A-4858-9089-F57633AE55C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF422AB-971A-4858-9089-F57633AE55C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECE83CB-E54F-42CB-97FC-0DBA528B1E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECE83CB-E54F-42CB-97FC-0DBA528B1E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECE83CB-E54F-42CB-97FC-0DBA528B1E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECE83CB-E54F-42CB-97FC-0DBA528B1E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7F0B09-BCCE-460F-8835-7B5306E7A056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7F0B09-BCCE-460F-8835-7B5306E7A056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7F0B09-BCCE-460F-8835-7B5306E7A056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7F0B09-BCCE-460F-8835-7B5306E7A056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9C5660-851A-4137-8A76-0E25C990FDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9C5660-851A-4137-8A76-0E25C990FDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9C5660-851A-4137-8A76-0E25C990FDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9C5660-851A-4137-8A76-0E25C990FDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43FB6C15-7CD2-4858-9FA2-BA80BA5D23DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FB6C15-7CD2-4858-9FA2-BA80BA5D23DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FB6C15-7CD2-4858-9FA2-BA80BA5D23DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FB6C15-7CD2-4858-9FA2-BA80BA5D23DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331730FE-CC1B-4A4A-98C9-69FBB4599605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331730FE-CC1B-4A4A-98C9-69FBB4599605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331730FE-CC1B-4A4A-98C9-69FBB4599605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331730FE-CC1B-4A4A-98C9-69FBB4599605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A00FE88E-C57C-4ECE-98D6-5C0A7C1BCDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00FE88E-C57C-4ECE-98D6-5C0A7C1BCDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00FE88E-C57C-4ECE-98D6-5C0A7C1BCDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00FE88E-C57C-4ECE-98D6-5C0A7C1BCDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
